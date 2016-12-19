@@ -1,0 +1,294 @@
+@charset:"UTF-8";
+
+html{
+	font-size: 100px;
+}
+body{
+	background-color: #efefef;;
+	font-size: 16px;
+	font-family: Myriad Set Pro,Lucida Grande,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif,Microsoft Yahei,Simsun;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+li{
+	list-style: none;
+}
+a{	
+	text-decoration: none;
+}
+.miao_header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 0.6rem;
+	display: flex;
+	justify-content:space-between;
+	background: #f9fafd;
+	align-items:center;
+	font-size: 0.22rem;
+	color: #333;
+}
+.miao_header span:first-of-type{
+	width: 0.4rem;
+	height: 0.57rem;
+	background: red;
+	background: url(../img/myorder_header_bg1.png) no-repeat center center;
+	background-size:68% 50%;
+}
+.miao_header span:last-of-type{
+	width: 0.42rem;
+	height: 0.57rem;
+	background: red;
+		background: url(../img/myorder_header_bg2.png) no-repeat center center;
+	background-size:68% 50%
+
+}
+.miao_banner{
+	margin-top: 0.6rem;
+	width: 100%;
+	height: 1.81rem;
+	background: red;
+	background: url(../img/2016092318241233.jpg) no-repeat center center;
+	background-size: contain;
+}
+.miao_ul{
+	display: flex;
+	justify-content:center;
+	width: 100%;
+}
+.miao_ul li{
+	padding: 0.08rem 0;
+	background: #272c2a;
+	width: 25%;
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	color: #fff;
+	font-size: 0.18rem;
+}
+.miao_ul li span{
+	width: 100%;
+	height: 0.2588rem;
+	line-height: 0.2588rem;
+	text-align: center;
+}
+.miao_ul li span:first-of-type{
+	font-size: 0.2rem;
+}
+.miao_ul li span:last-of-type{
+	background: url(../img/miao.png) no-repeat 0.2rem center;
+    background-size: 0.4rem 0.2rem;
+}
+.miao_one{
+	width: 100%;
+	height: 0.4rem;
+	display: flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.miao_one .miao_one_one{
+	position: relative;
+	height: 0.4rem;
+	background-color: #fdd000;
+    width: 1.28rem;
+}
+.miao_one .miao_one_one::after {
+	top:0;
+    content: '';
+    width: 0;
+    height: 0;
+    position: absolute;
+    right: -0.1rem;
+    border-top: 0.2rem solid transparent;
+    border-left: 0.1rem solid #fdd000;
+    border-bottom: 0.2rem solid transparent;
+}
+.miao_one .miao_one_one p:first-of-type{
+	text-indent: 0.2rem;
+	font-size: 0.13rem;
+	line-height: 0.20rem;
+	color:#333;
+}
+.miao_one .miao_one_one p:last-of-type{
+	text-indent: 0.2rem;
+	font-size: 0.16rem;
+	color:#333;
+}
+.miao_one_two{
+	width: 1.14rem;
+	height: 0.28rem;
+	border: 1px solid #333;
+	color: #333;
+	font-size: 0.14rem;
+	background: #272c2a;
+	color: #fff;
+	text-align: center;
+	line-height: 0.28rem;
+	margin-right: 0.1rem;
+	border-radius: 0.14rem 0.14rem;
+}
+.miao_guang_one{
+	margin-bottom: 0.06rem;
+	background: white;
+	display: flex;
+	width: 100%;
+}
+.miao_guang_one>div:first-of-type{
+	width: 1.863rem;
+	height: 1.9406rem;
+	border-right: 1px solid #eee;
+	background: url(../img/20161212112751_304643.jpg) no-repeat center center;
+	background-size: 2rem 2rem;
+}
+.miao_guang_one>div:last-of-type{
+	padding-left: 0.15rem;
+	padding-top: 0.15rem
+}
+.miao_guang_one>div:last-of-type h5{
+	font-size: 0.18rem;
+	height: 0.32rem;
+	width: 2.06rem;
+	line-height: 0.32rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	color: #333;
+}
+.miao_guang_one>div:last-of-type>span{
+	width: 2.06rem;
+	display: block;
+	font-size: 0.18rem;
+	height: 0.32rem;
+	line-height: 0.32rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	color: #333;
+}
+.miao_guang_one>div:last-of-type>p{
+	width: 2.06rem;
+	display: block;
+	font-size: 0.16rem;
+	height: 0.5rem;
+	line-height: 0.5rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	color: #ff602c;
+}
+.miao_guang_one>div:last-of-type>p span:first-of-type{
+	font-size: 0.26rem;
+}
+.miao_guang_one>div:last-of-type>p span:last-of-type{
+	font-size: 0.16rem;
+	color: #979697;
+}
+.miao_guang_one>div:last-of-type>div{
+	margin-top: 0.05rem;
+	width: 1.4489rem;
+	height: 0.38rem;
+	line-height: 0.39rem;
+	text-align: center;
+	color: #fff;
+	background: #aaa;
+	border-radius: 0.19rem;
+}
+.miao_hot{
+	height: 0.4rem;
+	line-height: 0.4rem;
+	width: 100%;
+	text-align: center;
+	 background: url(../img/main_hot.png) no-repeat center bottom;
+    background-size: contain;
+}
+.miao_hot span{
+	border-left: 0.05rem solid #fdd000;
+	padding-left: 0.06rem;
+	font-size: 0.18rem;
+	
+    color: #333;
+
+}
+.miao_hot_ul{
+	padding:0.1rem 0.03rem 0 0.08rem;
+	display: flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	font-size: 0.16rem
+
+}
+.miao_hot_ul li{
+	background: white;
+	width: 1.955rem;
+	height: 2.75rem;
+	margin-right: 0.05rem;
+	margin-bottom: 0.15rem;
+
+}
+.miao_hot_ul li div{
+	width: 100%;
+	height: 1.9405rem;
+	border-bottom: 0.01rem dashed #eee;
+	background: url(../img/20160826185419_023449.jpg) no-repeat center center;
+	background-size: contain;
+}
+.miao_hot_ul li h6{
+	text-indent: 0.04rem;
+	height: 0.25rem;
+	line-height: 0.25rem;
+}
+.miao_hot_ul li>span{
+	display: block;
+	text-indent: 0.04rem;
+	height: 0.25rem;
+	line-height: 0.25rem;
+	color: : #444;
+}
+.miao_hot_ul li p{
+	position: relative;
+	text-indent: 0.04rem;
+	height: 0.3rem;
+	line-height: 0.3rem;
+	color: #fc1400;
+}
+.miao_hot_ul li p span:last-of-type{
+	padding-left: 0.04rem;
+	text-decoration: line-through;
+	color: #999;
+}
+.miao_hot_ul li p a{
+	position: absolute;
+	width: 0.32rem;
+	height: 0.32rem;
+	border-radius: 50%;
+	border: 1px solid #999;
+	background: red url(../img/product_operate-57bf1d7b.png) -0.25rem center;
+    background-size: 170% 100%;
+    top:-0.1rem;
+    right: 0.1rem;
+}
+.buy_car{
+	width: 0.7586rem;
+	height: 0.7586rem;
+	background:#ffd600 url(../img/buy.png) center center;
+	background-size: contain;
+	z-index: 1000;
+	position: fixed;
+	bottom: 0.2rem;
+	right: 0.2rem;
+	border-radius: 50%;
+}
+.buy_car span{
+	position: absolute;
+	width: 0.23rem;
+	height: 0.23rem;
+	background: red;
+	color: #fff;
+	text-align: center;
+	line-height: 0.23rem;
+	font-size: 0.12rem;
+	border-radius: 50%;
+	right: 0;
+}

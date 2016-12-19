@@ -1,0 +1,2588 @@
+{
+    "data": {
+
+        "act_info": [
+            {
+                "act_rows": [
+                    {
+                        "activity": {
+                            "id": "21143",
+                            "name": "水果权益日",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016091915021646.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016091915021632.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "0",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "shuiguoquanyiri",
+                                "trackid": "focus1|21143"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "focus1|21143"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21741",
+                            "name": "大闸蟹开湖国庆",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092219211394.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092219211339.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "1",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "dazhaxiekaihuguoqing",
+                                "trackid": "focus1|21741"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "focus1|21741"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21709",
+                            "name": "九月大促",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016091810330511.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016091810330583.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "2",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "jiuyuedacu",
+                                "trackid": "focus1|21709"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "focus1|21709"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21731",
+                            "name": "新鲜预订-零食满60减15",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092317171726.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092317171780.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "3",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyudinglingshiman100jian30",
+                                "trackid": "focus1|21731"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "focus1|21731"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21725",
+                            "name": "怀来马奶葡萄专题",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016091015355012.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016091015355062.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "5",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "huailaimanaiputapzhuanti",
+                                "trackid": "focus1|21725"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "focus1|21725"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21629",
+                            "name": "新鲜预订－零度果坊鲜榨果汁",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092611533782.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092611533794.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "20",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyudingxianzhaguozhi",
+                                "trackid": "focus1|21629"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "focus1|21629"
+                        }
+                    }
+                ],
+                "type": "focus",
+                "sort": "1"
+            },
+            {
+                "act_rows": [
+                    {
+                        "activity": {
+                            "id": "20206",
+                            "name": "抽奖",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016081918454835.png",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016081918454835.png@90Q.png",
+                            "jptype": "1",
+                            "sort": "0",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "zhuanpan",
+                                "trackid": "icon1|20206"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "1",
+                            "trackid": "icon1|20206"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21743",
+                            "name": "疯狂秒杀",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092318431928.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092318431928.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "2",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "fengkuangmiaoshaxianliang5zheqiang",
+                                "trackid": "icon1|21743"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "icon1|21743"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21730",
+                            "name": "鲜货直供",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016090709430633.png",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016090709430633.png@90Q.png",
+                            "jptype": "1",
+                            "sort": "3",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "disanfangmanaiputao",
+                                "trackid": "icon1|21730"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "icon1|21730"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21741",
+                            "name": "大闸蟹",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092219201794.png",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092219201794.png@90Q.png",
+                            "jptype": "1",
+                            "sort": "4",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "dazhaxiekaihuguoqing",
+                                "trackid": "icon1|21741"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "icon1|21741"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "20580",
+                            "name": "水果",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016081918472555.png",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016081918472555.png@90Q.png",
+                            "jptype": "1",
+                            "sort": "5",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xianguoshengyan",
+                                "trackid": "icon1|20580"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "icon1|20580"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21355",
+                            "name": "乳品",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016081918472974.png",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016081918472974.png@90Q.png",
+                            "jptype": "1",
+                            "sort": "6",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "rupin",
+                                "trackid": "icon1|21355"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "icon1|21355"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21742",
+                            "name": "卤味",
+                            "img": "http://img01.bqstatic.com//upload/activity/201608191853564.png",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/201608191853564.png@90Q.png",
+                            "jptype": "1",
+                            "sort": "7",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "luweiyahuobunengting",
+                                "trackid": "icon1|21742"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "icon1|21742"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21142",
+                            "name": "零食",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016081918473439.png",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016081918473439.png@90Q.png",
+                            "jptype": "1",
+                            "sort": "9",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "lingshidapa",
+                                "trackid": "icon1|21142"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "icon1|21142"
+                        }
+                    }
+                ],
+                "type": "icon",
+                "sort": "2"
+            },
+            {
+                "act_rows": [
+                    {
+                        "activity": {
+                            "id": "21661",
+                            "name": "生活服务站",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "1",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "shenghuofuwuzhan",
+                                "trackid": "headline1|21661"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "headline1|21661"
+                        },
+                        "headline_detail": {
+                            "title": "防霾",
+                            "content": "3M防霾口罩22.8元/3只 1小时闪送"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21702",
+                            "name": "轻能特惠9.9/2瓶",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "1",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "sanyuanqingnengyourulaojiudianjiuyuan",
+                                "trackid": "headline1|21702"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "headline1|21702"
+                        },
+                        "headline_detail": {
+                            "title": "特价",
+                            "content": "三元轻能优酪乳9.9元/2瓶"
+                        }
+                    }
+                ],
+                "type": "headline",
+                "sort": "3",
+                "head_img": "http://img01.bqstatic.com/upload/activity/activity_v4_20352_1455435769_focus.jpg"
+            },
+            {
+                "act_rows": [
+                    {
+                        "activity": {
+                            "id": "21711",
+                            "name": "乳品大放价",
+                            "img": "http://img01.bqstatic.com//upload/activity/cms_113619_1474526845.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092214472519.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "0",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "rupindafangjia",
+                                "trackid": "brand1|21711"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "brand1|21711"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21143",
+                            "name": "水果权益日",
+                            "img": "http://img01.bqstatic.com//upload/activity/cms_115408_1474872735.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092614513573.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "2",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "shuiguoquanyiri",
+                                "trackid": "brand1|21143"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "brand1|21143"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21737",
+                            "name": "新鲜预订-今日必败",
+                            "img": "http://img01.bqstatic.com//upload/activity/201609231719512.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/201609231719512.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "5",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyudingjinribibai",
+                                "trackid": "brand1|21737"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "brand1|21737"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21741",
+                            "name": "大闸蟹开湖国庆",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092219281335.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092219281335.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "7",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "dazhaxiekaihuguoqing",
+                                "trackid": "brand1|21741"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "brand1|21741"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21742",
+                            "name": "卤味-鸭货不能停",
+                            "img": "http://img01.bqstatic.com//upload/activity/cms_112990_1474526992.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092214495367.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "8",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "luweiyahuobunengting",
+                                "trackid": "brand1|21742"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "brand1|21742"
+                        }
+                    }
+                ],
+                "type": "brand",
+                "sort": "4"
+            },
+            {
+                "act_rows": [
+                    {
+                        "activity": {
+                            "id": "21733",
+                            "name": "酒饮大放价下半场",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092316283617.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092316283617.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "6",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xiabanchang",
+                                "trackid": "scene1|21733"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "scene1|21733"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21736",
+                            "name": "零食大钜惠",
+                            "img": "http://img01.bqstatic.com//upload/activity/cms_109043_1474527364.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092214510620.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "11",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "rupindafangjia",
+                                "trackid": "scene1|21736"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "scene1|21736"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21742",
+                            "name": "卤味-鸭货不能停",
+                            "img": "http://img01.bqstatic.com//upload/activity/cms_94611_1474627781.jpg@90Q",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092318494135.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "12",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "luweiyahuobunengting",
+                                "trackid": "scene1|21742"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "scene1|21742"
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21717",
+                            "name": "新鲜预订-9月大促",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092317230622.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092317230622.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "30",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyuding9yuedacu",
+                                "trackid": "scene1|21717"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "scene1|21717"
+                        }
+                    }
+                ],
+                "type": "scene",
+                "sort": "5"
+            },
+            {
+                "act_rows": [
+                    {
+                        "activity": {
+                            "id": "21143",
+                            "name": "水果权益日",
+                            "img": "http://img01.bqstatic.com//upload/activity/201609261520205.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/201609261520205.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "1",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "shuiguoquanyiri",
+                                "trackid": "category1|21143"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21143"
+                        },
+                        "category_detail": {
+                            "name": "权益日",
+                            "category_color": "E80013",
+                            "target_type": "1",
+                            "category_id": "103532",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "66005",
+                                    "name": "蜂觅·15度蜜梨",
+                                    "long_name": "蜂觅·15度蜜梨320.0-430g/粒",
+                                    "store_nums": "50",
+                                    "specifics": "400-500g/盒",
+                                    "attribute": "",
+                                    "sort": "1",
+                                    "top_sort": "2",
+                                    "brand_id": "128",
+                                    "brand_name": "爱鲜蜂",
+                                    "hot_degree": "0",
+                                    "safe_day": "15",
+                                    "safe_unit": "1",
+                                    "market_price": "16",
+                                    "pcid": "55",
+                                    "partner_price": "14.6",
+                                    "ismix": "0",
+                                    "pre_img": "20160831105120_538779.jpg",
+                                    "pre_imgs": "20160831105114_265434.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "",
+                                    "product_num": "100001118",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103533": {
+                                            "103532": "优选水果"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103533": "国产水果"
+                                    },
+                                    "category_id": "103532",
+                                    "cid": "103532",
+                                    "child_cid": "103533",
+                                    "product_id": "66005",
+                                    "price": "14.6",
+                                    "number": "2",
+                                    "dealer_id": "5254",
+                                    "d_price": "9.90",
+                                    "had_pm": "1",
+                                    "pm_desc": "买一赠一",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "买一赠一"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/608/3110/20160831105120_538779.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/608/3110/20160831105120_538779.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "102028",
+                                    "name": "爱鲜蜂·百香果",
+                                    "long_name": "爱鲜蜂·百香果120g 2粒/袋",
+                                    "store_nums": "50",
+                                    "specifics": "120g 2粒/袋",
+                                    "attribute": "",
+                                    "sort": "2",
+                                    "top_sort": "4",
+                                    "brand_id": "128",
+                                    "brand_name": "爱鲜蜂",
+                                    "hot_degree": "0",
+                                    "safe_day": "15",
+                                    "safe_unit": "1",
+                                    "market_price": "19",
+                                    "pcid": "55",
+                                    "partner_price": "10.9",
+                                    "ismix": "0",
+                                    "pre_img": "20160311092214_940185.jpg",
+                                    "pre_imgs": "20160311092212_639429.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "爱鲜蜂·百香果",
+                                    "product_num": "100002004",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103533": {
+                                            "103532": "优选水果"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103533": "国产水果"
+                                    },
+                                    "category_id": "103532",
+                                    "cid": "103532",
+                                    "child_cid": "103533",
+                                    "product_id": "102028",
+                                    "price": "10.9",
+                                    "number": "2",
+                                    "dealer_id": "5254",
+                                    "d_price": "12.80",
+                                    "had_pm": "1",
+                                    "pm_desc": "买一赠一",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "买一赠一"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/603/1109/20160311092214_940185.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/603/1109/20160311092214_940185.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "113610",
+                                    "name": "爱鲜蜂·怀来马奶葡萄",
+                                    "long_name": "爱鲜蜂·怀来马奶葡萄500g/盒",
+                                    "store_nums": "50",
+                                    "specifics": "500g/盒",
+                                    "attribute": "",
+                                    "sort": "3",
+                                    "top_sort": "1",
+                                    "brand_id": "128",
+                                    "brand_name": "爱鲜蜂",
+                                    "hot_degree": "0",
+                                    "safe_day": "0",
+                                    "safe_unit": "1",
+                                    "market_price": "18",
+                                    "pcid": "55",
+                                    "partner_price": "10.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160919170022_897473.jpg",
+                                    "pre_imgs": "20160919170020_908220.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "爱鲜蜂·怀来马奶葡萄",
+                                    "product_num": "100001068",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103533": {
+                                            "103532": "优选水果"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103533": "国产水果"
+                                    },
+                                    "category_id": "103532",
+                                    "cid": "103532",
+                                    "child_cid": "103533",
+                                    "product_id": "113610",
+                                    "price": "10.8",
+                                    "number": "2",
+                                    "dealer_id": "5254",
+                                    "d_price": "10.80",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/609/1917/20160919170022_897473.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/609/1917/20160919170022_897473.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21711",
+                            "name": "乳品大放价",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092011435460.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092011435460.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "2",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "rupindafangjia",
+                                "trackid": "category1|21711"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21711"
+                        },
+                        "category_detail": {
+                            "name": "牛奶面包",
+                            "category_color": "20B1FA",
+                            "target_type": "1",
+                            "category_id": "103536",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "106094",
+                                    "name": "音苏提有机酸奶酪",
+                                    "long_name": "音苏提有机酸奶酪140g",
+                                    "store_nums": "50",
+                                    "specifics": "140g",
+                                    "attribute": "",
+                                    "sort": "2",
+                                    "top_sort": "4",
+                                    "brand_id": "2305",
+                                    "brand_name": "音苏提",
+                                    "hot_degree": "0",
+                                    "safe_day": "14",
+                                    "safe_unit": "1",
+                                    "market_price": "12",
+                                    "pcid": "55",
+                                    "partner_price": "7.9",
+                                    "ismix": "0",
+                                    "pre_img": "20160416104145_631033.jpg",
+                                    "pre_imgs": "20160416104142_821181.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "音苏提有机酸奶酪",
+                                    "product_num": "100001174",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103537": {
+                                            "103536": "牛奶面包"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103537": "酸奶乳酸菌"
+                                    },
+                                    "category_id": "103536",
+                                    "cid": "103536",
+                                    "child_cid": "103537",
+                                    "product_id": "106094",
+                                    "price": "7.9",
+                                    "number": "3",
+                                    "dealer_id": "5254",
+                                    "d_price": "6.90",
+                                    "had_pm": "1",
+                                    "pm_desc": "买一赠一",
+                                    "pm_info": "赠品有限，赠完为止",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "买一赠一"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/604/1610/20160416104145_631033.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/604/1610/20160416104145_631033.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "12047",
+                                    "name": "福成原味酸牛奶",
+                                    "long_name": "福成原味酸牛奶240.0g/瓶",
+                                    "store_nums": "50",
+                                    "specifics": "240g",
+                                    "attribute": "",
+                                    "sort": "3",
+                                    "top_sort": "5",
+                                    "brand_id": "1014",
+                                    "brand_name": "福成",
+                                    "hot_degree": "0",
+                                    "safe_day": "10",
+                                    "safe_unit": "1",
+                                    "market_price": "12.9",
+                                    "pcid": "55",
+                                    "partner_price": "8.9",
+                                    "ismix": "0",
+                                    "pre_img": "0000012047_20190.jpg",
+                                    "pre_imgs": "0000012047_94710.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "精品,福成,有机酸牛奶,原味,酸奶,奶,饮品,乳制品",
+                                    "product_num": "100006668",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103537": {
+                                            "103536": "牛奶面包"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103537": "酸奶乳酸菌"
+                                    },
+                                    "category_id": "103536",
+                                    "cid": "103536",
+                                    "child_cid": "103537",
+                                    "product_id": "12047",
+                                    "price": "8.9",
+                                    "number": "9",
+                                    "dealer_id": "5254",
+                                    "d_price": "8.90",
+                                    "had_pm": "1",
+                                    "pm_desc": "买一赠一",
+                                    "pm_info": "赠品有限，赠完为止",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "买一赠一"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/001/2047/0000012047_20190.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/001/2047/0000012047_20190.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "113619",
+                                    "name": "骑士1992酸牛奶",
+                                    "long_name": "骑士1992酸牛奶180g",
+                                    "store_nums": "50",
+                                    "specifics": "180g",
+                                    "attribute": "",
+                                    "sort": "4",
+                                    "top_sort": "1",
+                                    "brand_id": "2637",
+                                    "brand_name": "骑士",
+                                    "hot_degree": "0",
+                                    "safe_day": "21",
+                                    "safe_unit": "1",
+                                    "market_price": "9.9",
+                                    "pcid": "55",
+                                    "partner_price": "6.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160826185419_023449.jpg",
+                                    "pre_imgs": "20160826185424_964448.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "骑士1992酸牛奶",
+                                    "product_num": "100004414",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103537": {
+                                            "103536": "牛奶面包"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103537": "酸奶乳酸菌"
+                                    },
+                                    "category_id": "103536",
+                                    "cid": "103536",
+                                    "child_cid": "103537",
+                                    "product_id": "113619",
+                                    "price": "6.8",
+                                    "number": "5",
+                                    "dealer_id": "5254",
+                                    "d_price": "6.80",
+                                    "had_pm": "1",
+                                    "pm_desc": "买一赠一",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "买一赠一"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/608/2618/20160826185419_023449.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/608/2618/20160826185419_023449.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21742",
+                            "name": "卤味-鸭货不能停",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092318512099.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092318512099.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "4",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "luweiyahuobunengting",
+                                "trackid": "category1|21742"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21742"
+                        },
+                        "category_detail": {
+                            "name": "卤味熟食",
+                            "category_color": "7B4D03",
+                            "target_type": "1",
+                            "category_id": "103581",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "94611",
+                                    "name": "飘香鸭锁骨(微辣)",
+                                    "long_name": "飘香鸭锁骨(微辣)220g",
+                                    "store_nums": "50",
+                                    "specifics": "220g",
+                                    "attribute": "",
+                                    "sort": "1",
+                                    "top_sort": "7",
+                                    "brand_id": "1727",
+                                    "brand_name": "飘香",
+                                    "hot_degree": "0",
+                                    "safe_day": "12",
+                                    "safe_unit": "1",
+                                    "market_price": "20",
+                                    "pcid": "55",
+                                    "partner_price": "16",
+                                    "ismix": "0",
+                                    "pre_img": "0000094611_99870.jpg",
+                                    "pre_imgs": "0000094611_26500.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "飘香,鸭锁骨,卤味,哈哈镜,鸭锁骨,容先生",
+                                    "product_num": "100001094",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103582": {
+                                            "103581": "卤味熟食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103582": "卤味熟食"
+                                    },
+                                    "category_id": "103581",
+                                    "cid": "103581",
+                                    "child_cid": "103582",
+                                    "product_id": "94611",
+                                    "price": "16",
+                                    "number": "6",
+                                    "dealer_id": "5254",
+                                    "d_price": "16.00",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/009/4611/0000094611_99870.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/009/4611/0000094611_99870.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "112989",
+                                    "name": "哈肉联啤酒火腿",
+                                    "long_name": "哈肉联啤酒火腿350g",
+                                    "store_nums": "50",
+                                    "specifics": "350g",
+                                    "attribute": "",
+                                    "sort": "2",
+                                    "top_sort": "2",
+                                    "brand_id": "1856",
+                                    "brand_name": "哈肉联",
+                                    "hot_degree": "0",
+                                    "safe_day": "90",
+                                    "safe_unit": "1",
+                                    "market_price": "18",
+                                    "pcid": "55",
+                                    "partner_price": "16.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160805184150_570179.jpg",
+                                    "pre_imgs": "20160805184148_202081.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "哈肉联啤酒火腿",
+                                    "product_num": "100000107",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103582": {
+                                            "103581": "卤味熟食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103582": "卤味熟食"
+                                    },
+                                    "category_id": "103581",
+                                    "cid": "103581",
+                                    "child_cid": "103582",
+                                    "product_id": "112989",
+                                    "price": "16.8",
+                                    "number": "2",
+                                    "dealer_id": "5254",
+                                    "d_price": "16.80",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/608/0518/20160805184150_570179.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/608/0518/20160805184150_570179.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "112990",
+                                    "name": "月盛斋酱牛腱",
+                                    "long_name": "月盛斋酱牛腱100g",
+                                    "store_nums": "50",
+                                    "specifics": "100g",
+                                    "attribute": "",
+                                    "sort": "3",
+                                    "top_sort": "1",
+                                    "brand_id": "1728",
+                                    "brand_name": "月盛斋",
+                                    "hot_degree": "0",
+                                    "safe_day": "60",
+                                    "safe_unit": "1",
+                                    "market_price": "15.8",
+                                    "pcid": "55",
+                                    "partner_price": "15.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160811153441_677160.jpg",
+                                    "pre_imgs": "20160811153437_122308.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "月盛斋酱牛腱",
+                                    "product_num": "100000471",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103582": {
+                                            "103581": "卤味熟食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103582": "卤味熟食"
+                                    },
+                                    "category_id": "103581",
+                                    "cid": "103581",
+                                    "child_cid": "103582",
+                                    "product_id": "112990",
+                                    "price": "15.8",
+                                    "number": "3",
+                                    "dealer_id": "5254",
+                                    "d_price": "15.80",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/608/1115/20160811153441_677160.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/608/1115/20160811153441_677160.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21733",
+                            "name": "酒饮大放价下半场",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016091817175041.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016091817175041.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "6",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xiabanchang",
+                                "trackid": "category1|21733"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21733"
+                        },
+                        "category_detail": {
+                            "name": "饮料酒水",
+                            "category_color": "FF3319",
+                            "target_type": "1",
+                            "category_id": "103549",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "36272",
+                                    "name": "味全每日C橙汁",
+                                    "long_name": "味全每日C橙汁300ml",
+                                    "store_nums": "50",
+                                    "specifics": "300ml",
+                                    "attribute": "",
+                                    "sort": "0",
+                                    "top_sort": "9999",
+                                    "brand_id": "22",
+                                    "brand_name": "味全",
+                                    "hot_degree": "0",
+                                    "safe_day": "21",
+                                    "safe_unit": "1",
+                                    "market_price": "6.9",
+                                    "pcid": "55",
+                                    "partner_price": "6.5",
+                                    "ismix": "0",
+                                    "pre_img": "20160407110221_611797.jpg",
+                                    "pre_imgs": "20160407110219_383841.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "味全每日C橙汁",
+                                    "product_num": "100000823",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103551": {
+                                            "103549": "饮料酒水"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103551": "果汁饮料"
+                                    },
+                                    "category_id": "103549",
+                                    "cid": "103549",
+                                    "child_cid": "103551",
+                                    "product_id": "36272",
+                                    "price": "6.5",
+                                    "number": "6",
+                                    "dealer_id": "5254",
+                                    "d_price": "6.50",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/604/0711/20160407110221_611797.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/604/0711/20160407110221_611797.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "111134",
+                                    "name": "娃哈哈饮用纯净水",
+                                    "long_name": "娃哈哈饮用纯净水4.5L",
+                                    "store_nums": "50",
+                                    "specifics": "4.5L",
+                                    "attribute": "",
+                                    "sort": "1",
+                                    "top_sort": "9999",
+                                    "brand_id": "696",
+                                    "brand_name": "娃哈哈",
+                                    "hot_degree": "0",
+                                    "safe_day": "2",
+                                    "safe_unit": "3",
+                                    "market_price": "10",
+                                    "pcid": "55",
+                                    "partner_price": "10",
+                                    "ismix": "0",
+                                    "pre_img": "20160809162204_451389.jpg",
+                                    "pre_imgs": "20160809162202_454091.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "娃哈哈饮用纯净水(桶)",
+                                    "product_num": "100000201",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "年",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103550": {
+                                            "103549": "饮料酒水"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103550": "饮用水"
+                                    },
+                                    "category_id": "103549",
+                                    "cid": "103549",
+                                    "child_cid": "103550",
+                                    "product_id": "111134",
+                                    "price": "10",
+                                    "number": "8",
+                                    "dealer_id": "5254",
+                                    "d_price": "10.00",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/608/0916/20160809162204_451389.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/608/0916/20160809162204_451389.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "15821",
+                                    "name": "碱法葡萄味苏打水",
+                                    "long_name": "碱法葡萄味苏打水500.0ml/瓶",
+                                    "store_nums": "50",
+                                    "specifics": "500ml",
+                                    "attribute": "",
+                                    "sort": "1",
+                                    "top_sort": "4",
+                                    "brand_id": "1425",
+                                    "brand_name": "碱法",
+                                    "hot_degree": "0",
+                                    "safe_day": "360",
+                                    "safe_unit": "1",
+                                    "market_price": "5",
+                                    "pcid": "55",
+                                    "partner_price": "4",
+                                    "ismix": "0",
+                                    "pre_img": "0000015821_06630.jpg",
+                                    "pre_imgs": "0000015821_67280.jpg,",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "",
+                                    "product_num": "100000289",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103552": {
+                                            "103549": "饮料酒水"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103552": "碳酸饮料"
+                                    },
+                                    "category_id": "103549",
+                                    "cid": "103549",
+                                    "child_cid": "103552",
+                                    "product_id": "15821",
+                                    "price": "4",
+                                    "number": "28",
+                                    "dealer_id": "5254",
+                                    "d_price": "3.50",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/001/5821/0000015821_06630.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/001/5821/0000015821_06630.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21736",
+                            "name": "零食大钜惠",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016091917300421.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016091917300421.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "7",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "rupindafangjia",
+                                "trackid": "category1|21736"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21736"
+                        },
+                        "category_detail": {
+                            "name": "零食大趴",
+                            "category_color": "E80013",
+                            "target_type": "1",
+                            "category_id": "103541",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "109043",
+                                    "name": "啪啪通原味虾片",
+                                    "long_name": "啪啪通原味虾片85g",
+                                    "store_nums": "50",
+                                    "specifics": "85g",
+                                    "attribute": "",
+                                    "sort": "0",
+                                    "top_sort": "22",
+                                    "brand_id": "1192",
+                                    "brand_name": "啪啪通",
+                                    "hot_degree": "0",
+                                    "safe_day": "15",
+                                    "safe_unit": "2",
+                                    "market_price": "23.8",
+                                    "pcid": "55",
+                                    "partner_price": "16.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160526165010_231974.jpg",
+                                    "pre_imgs": "20160526165008_860562.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "啪啪通原味虾片",
+                                    "product_num": "100000214",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "月",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103547": {
+                                            "103541": "休闲零食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103547": "进口零食"
+                                    },
+                                    "category_id": "103541",
+                                    "cid": "103541",
+                                    "child_cid": "103547",
+                                    "product_id": "109043",
+                                    "price": "16.8",
+                                    "number": "2",
+                                    "dealer_id": "5254",
+                                    "d_price": "16.80",
+                                    "had_pm": "1",
+                                    "pm_desc": "满赠",
+                                    "pm_info": "啪啪通买即赠20g奶酪味虾片1袋",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "满赠"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/605/2616/20160526165010_231974.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/605/2616/20160526165010_231974.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "112738",
+                                    "name": "德芙蓝莓黑巧克力",
+                                    "long_name": "德芙蓝莓黑巧克力100g",
+                                    "store_nums": "50",
+                                    "specifics": "100g",
+                                    "attribute": "",
+                                    "sort": "2",
+                                    "top_sort": "9999",
+                                    "brand_id": "76",
+                                    "brand_name": "德芙",
+                                    "hot_degree": "0",
+                                    "safe_day": "12",
+                                    "safe_unit": "2",
+                                    "market_price": "25",
+                                    "pcid": "55",
+                                    "partner_price": "23.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160729175544_825158.jpg",
+                                    "pre_imgs": "20160729175542_263373.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "德芙蓝莓黑巧克力",
+                                    "product_num": "100000043",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "月",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103545": {
+                                            "103541": "休闲零食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103545": "糖果巧克力"
+                                    },
+                                    "category_id": "103541",
+                                    "cid": "103541",
+                                    "child_cid": "103545",
+                                    "product_id": "112738",
+                                    "price": "23.8",
+                                    "number": "42",
+                                    "dealer_id": "5254",
+                                    "d_price": "0.00",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/607/2917/20160729175544_825158.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/607/2917/20160729175544_825158.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "113594",
+                                    "name": "好丽友薯愿薯片三连包",
+                                    "long_name": "好丽友薯愿薯片三连包104g*3",
+                                    "store_nums": "50",
+                                    "specifics": "104g*3",
+                                    "attribute": "",
+                                    "sort": "3",
+                                    "top_sort": "6",
+                                    "brand_id": "32",
+                                    "brand_name": "好丽友",
+                                    "hot_degree": "0",
+                                    "safe_day": "270",
+                                    "safe_unit": "1",
+                                    "market_price": "23.9",
+                                    "pcid": "55",
+                                    "partner_price": "21.9",
+                                    "ismix": "0",
+                                    "pre_img": "20160825184432_209333.jpg",
+                                    "pre_imgs": "20160825184404_348737.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "好丽友薯愿薯片三连包",
+                                    "product_num": "100000357",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103543": {
+                                            "103541": "休闲零食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103543": "膨化食品"
+                                    },
+                                    "category_id": "103541",
+                                    "cid": "103541",
+                                    "child_cid": "103543",
+                                    "product_id": "113594",
+                                    "price": "21.9",
+                                    "number": "9",
+                                    "dealer_id": "5254",
+                                    "d_price": "21.90",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/608/2518/20160825184432_209333.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/608/2518/20160825184432_209333.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "20583",
+                            "name": "饿了吗",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016062716551913.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016062716551913.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "17",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "elema",
+                                "trackid": "category1|20583"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|20583"
+                        },
+                        "category_detail": {
+                            "name": "方便速食",
+                            "category_color": "1EB2A3",
+                            "target_type": "1",
+                            "category_id": "103557",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "94409",
+                                    "name": "统一来一桶香辣味老坛酸菜",
+                                    "long_name": "统一来一桶香辣味老坛酸菜120g",
+                                    "store_nums": "50",
+                                    "specifics": "120g",
+                                    "attribute": "",
+                                    "sort": "6",
+                                    "top_sort": "9999",
+                                    "brand_id": "45",
+                                    "brand_name": "统一",
+                                    "hot_degree": "0",
+                                    "safe_day": "180",
+                                    "safe_unit": "1",
+                                    "market_price": "5",
+                                    "pcid": "55",
+                                    "partner_price": "4",
+                                    "ismix": "0",
+                                    "pre_img": "0000094409_73320.jpg",
+                                    "pre_imgs": "0000094409_20980.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "统一来一桶老坛酸菜(香辣味)",
+                                    "product_num": "100000540",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103558": {
+                                            "103557": "方便速食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103558": "方便面"
+                                    },
+                                    "category_id": "103557",
+                                    "cid": "103557",
+                                    "child_cid": "103558",
+                                    "product_id": "94409",
+                                    "price": "4",
+                                    "number": "38",
+                                    "dealer_id": "5254",
+                                    "d_price": "4.00",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/009/4409/0000094409_73320.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/009/4409/0000094409_73320.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "2513",
+                                    "name": "统一小浣熊意式红烩有点甜",
+                                    "long_name": "统一小浣熊意式红烩有点甜50g",
+                                    "store_nums": "50",
+                                    "specifics": "50g",
+                                    "attribute": "",
+                                    "sort": "8",
+                                    "top_sort": "9999",
+                                    "brand_id": "45",
+                                    "brand_name": "统一",
+                                    "hot_degree": "0",
+                                    "safe_day": "180",
+                                    "safe_unit": "1",
+                                    "market_price": "1.2",
+                                    "pcid": "55",
+                                    "partner_price": "1",
+                                    "ismix": "0",
+                                    "pre_img": "0000002513.jpg",
+                                    "pre_imgs": "0000002513_16068.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "小浣熊,干脆面,意大利红绘味,休闲零食",
+                                    "product_num": "100000441",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103558": {
+                                            "103557": "方便速食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103558": "方便面"
+                                    },
+                                    "category_id": "103557",
+                                    "cid": "103557",
+                                    "child_cid": "103558",
+                                    "product_id": "2513",
+                                    "price": "1",
+                                    "number": "24",
+                                    "dealer_id": "5254",
+                                    "d_price": "1.00",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/000/2513/0000002513.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/000/2513/0000002513.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "112800",
+                                    "name": "康师傅开心桶红烧牛肉面",
+                                    "long_name": "康师傅开心桶红烧牛肉面108g",
+                                    "store_nums": "50",
+                                    "specifics": "108g",
+                                    "attribute": "",
+                                    "sort": "22001399",
+                                    "top_sort": "9999",
+                                    "brand_id": "13",
+                                    "brand_name": "康师傅",
+                                    "hot_degree": "0",
+                                    "safe_day": "180",
+                                    "safe_unit": "1",
+                                    "market_price": "5",
+                                    "pcid": "55",
+                                    "partner_price": "4.5",
+                                    "ismix": "0",
+                                    "pre_img": "20160803175153_141012.jpg",
+                                    "pre_imgs": "20160803175151_670389.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "康师傅开心桶红烧牛肉面",
+                                    "product_num": "100000255",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103558": {
+                                            "103557": "方便速食"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103558": "方便面"
+                                    },
+                                    "category_id": "103557",
+                                    "cid": "103557",
+                                    "child_cid": "103558",
+                                    "product_id": "112800",
+                                    "price": "4.5",
+                                    "number": "8",
+                                    "dealer_id": "5254",
+                                    "d_price": "4.50",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/608/0317/20160803175153_141012.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/608/0317/20160803175153_141012.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21734",
+                            "name": "9月大促－生活服务站",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016092010081476.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016092010081476.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "19",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "weidamanjian",
+                                "trackid": "category1|21734"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21734"
+                        },
+                        "category_detail": {
+                            "name": "生活用品",
+                            "category_color": "E80013",
+                            "target_type": "1",
+                            "category_id": "103575",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "109967",
+                                    "name": "高露洁光感劲白薄荷牙膏",
+                                    "long_name": "高露洁光感劲白薄荷牙膏80g",
+                                    "store_nums": "50",
+                                    "specifics": "80g",
+                                    "attribute": "",
+                                    "sort": "1",
+                                    "top_sort": "9999",
+                                    "brand_id": "468",
+                                    "brand_name": "高露洁",
+                                    "hot_degree": "0",
+                                    "safe_day": "3",
+                                    "safe_unit": "3",
+                                    "market_price": "7.9",
+                                    "pcid": "55",
+                                    "partner_price": "8.5",
+                                    "ismix": "0",
+                                    "pre_img": "20160614162421_651611.jpg",
+                                    "pre_imgs": "20160614162419_389773.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "高露洁光感劲白美白牙膏",
+                                    "product_num": "100000016",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "年",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103576": {
+                                            "103575": "生活用品"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103576": "个人护理"
+                                    },
+                                    "category_id": "103575",
+                                    "cid": "103575",
+                                    "child_cid": "103576",
+                                    "product_id": "109967",
+                                    "price": "8.5",
+                                    "number": "15",
+                                    "dealer_id": "5254",
+                                    "d_price": "7.90",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/606/1416/20160614162421_651611.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/606/1416/20160614162421_651611.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "109512",
+                                    "name": "苏菲裸感S日用卫生巾",
+                                    "long_name": "苏菲裸感S日用卫生巾250mm*13片",
+                                    "store_nums": "50",
+                                    "specifics": "250mm*13片",
+                                    "attribute": "",
+                                    "sort": "2",
+                                    "top_sort": "9999",
+                                    "brand_id": "51",
+                                    "brand_name": "苏菲",
+                                    "hot_degree": "0",
+                                    "safe_day": "3",
+                                    "safe_unit": "3",
+                                    "market_price": "16.8",
+                                    "pcid": "55",
+                                    "partner_price": "16.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160602095203_549811.jpg",
+                                    "pre_imgs": "20160602095202_228654.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "苏菲裸感S日用卫生巾",
+                                    "product_num": "100000066",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "年",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103576": {
+                                            "103575": "生活用品"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103576": "个人护理"
+                                    },
+                                    "category_id": "103575",
+                                    "cid": "103575",
+                                    "child_cid": "103576",
+                                    "product_id": "109512",
+                                    "price": "16.8",
+                                    "number": "11",
+                                    "dealer_id": "5254",
+                                    "d_price": "16.80",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/606/0209/20160602095203_549811.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/606/0209/20160602095203_549811.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "31647",
+                                    "name": "维达超韧纸抽",
+                                    "long_name": "维达超韧纸抽3包/提",
+                                    "store_nums": "50",
+                                    "specifics": "3包",
+                                    "attribute": "",
+                                    "sort": "3",
+                                    "top_sort": "9999",
+                                    "brand_id": "681",
+                                    "brand_name": "维达",
+                                    "hot_degree": "0",
+                                    "safe_day": "1095",
+                                    "safe_unit": "1",
+                                    "market_price": "18",
+                                    "pcid": "55",
+                                    "partner_price": "13.8",
+                                    "ismix": "0",
+                                    "pre_img": "20160415232342_550770.jpg",
+                                    "pre_imgs": "20160415232337_586081.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "维达超韧纸抽",
+                                    "product_num": "100000262",
+                                    "org_source_value": "1",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103578": {
+                                            "103575": "生活用品"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103578": "纸品"
+                                    },
+                                    "category_id": "103575",
+                                    "cid": "103575",
+                                    "child_cid": "103578",
+                                    "product_id": "31647",
+                                    "price": "13.8",
+                                    "number": "2",
+                                    "dealer_id": "5254",
+                                    "d_price": "12.90",
+                                    "had_pm": "1",
+                                    "pm_desc": "满减",
+                                    "pm_info": "维达纸品满40减5",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "满减"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/604/1523/20160415232342_550770.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/604/1523/20160415232342_550770.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21667",
+                            "name": "冰爽酷夏",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016072518152496.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016072518152496.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "20",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "bingshuangkuxia",
+                                "trackid": "category1|21667"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21667"
+                        },
+                        "category_detail": {
+                            "name": "冰激凌",
+                            "category_color": "E80013",
+                            "target_type": "1",
+                            "category_id": "103548",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "2381",
+                                    "name": "雀巢牛奶棒原味味",
+                                    "long_name": "雀巢牛奶棒原味味1支",
+                                    "store_nums": "200",
+                                    "specifics": "1支",
+                                    "attribute": "",
+                                    "sort": "82000494",
+                                    "top_sort": "9999",
+                                    "brand_id": "4",
+                                    "brand_name": "雀巢",
+                                    "hot_degree": "0",
+                                    "safe_day": "18",
+                                    "safe_unit": "2",
+                                    "market_price": "4",
+                                    "pcid": "55",
+                                    "partner_price": "4",
+                                    "ismix": "0",
+                                    "pre_img": "0000002381.jpg",
+                                    "pre_imgs": "0000002381_17629.jpg",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "0",
+                                    "tag_ids": "",
+                                    "pre_state": "0",
+                                    "keywords": "雀巢,牛奶棒,牛奶味,冰淇淋",
+                                    "product_num": "315",
+                                    "org_source_value": "2",
+                                    "safe_unit_desc": "月",
+                                    "c_layer": "1",
+                                    "p_cids": {
+                                        "103548": {
+                                            "103548": "冰激凌"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103548": "冰激凌"
+                                    },
+                                    "category_id": "103548",
+                                    "cid": "103548",
+                                    "child_cid": "0",
+                                    "product_id": "2381",
+                                    "price": "4.00",
+                                    "number": "1000",
+                                    "dealer_id": "5254",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "0",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/000/2381/0000002381.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/000/2381/0000002381.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "10300",
+                                    "name": "蒙牛哈蜜蜜雪糕",
+                                    "long_name": "蒙牛哈蜜蜜雪糕1支",
+                                    "store_nums": "200",
+                                    "specifics": "1支",
+                                    "attribute": "",
+                                    "sort": "82002399",
+                                    "top_sort": "9999",
+                                    "brand_id": "23",
+                                    "brand_name": "蒙牛",
+                                    "hot_degree": "0",
+                                    "safe_day": "0",
+                                    "safe_unit": "1",
+                                    "market_price": "2",
+                                    "pcid": "55",
+                                    "partner_price": "2",
+                                    "ismix": "0",
+                                    "pre_img": "0000010300.jpg",
+                                    "pre_imgs": "0000010300_18494.jpg,",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "0",
+                                    "tag_ids": "",
+                                    "pre_state": "0",
+                                    "keywords": "",
+                                    "product_num": "173",
+                                    "org_source_value": "2",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "1",
+                                    "p_cids": {
+                                        "103548": {
+                                            "103548": "冰激凌"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103548": "冰激凌"
+                                    },
+                                    "category_id": "103548",
+                                    "cid": "103548",
+                                    "child_cid": "0",
+                                    "product_id": "10300",
+                                    "price": "2.00",
+                                    "number": "1000",
+                                    "dealer_id": "5254",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "0",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/001/0300/0000010300.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/001/0300/0000010300.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "8910",
+                                    "name": "蒙牛绿色心情绿莎莎雪糕",
+                                    "long_name": "蒙牛绿色心情绿莎莎雪糕1支",
+                                    "store_nums": "200",
+                                    "specifics": "1支",
+                                    "attribute": "",
+                                    "sort": "82002399",
+                                    "top_sort": "9999",
+                                    "brand_id": "23",
+                                    "brand_name": "蒙牛",
+                                    "hot_degree": "0",
+                                    "safe_day": "0",
+                                    "safe_unit": "1",
+                                    "market_price": "2",
+                                    "pcid": "55",
+                                    "partner_price": "2",
+                                    "ismix": "0",
+                                    "pre_img": "0000008910.jpg",
+                                    "pre_imgs": "0000008910_13212.jpg,",
+                                    "cart_group_id": "0",
+                                    "goods_type": "0",
+                                    "source_id": "0",
+                                    "tag_ids": "",
+                                    "pre_state": "0",
+                                    "keywords": "",
+                                    "product_num": "223",
+                                    "org_source_value": "2",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "1",
+                                    "p_cids": {
+                                        "103548": {
+                                            "103548": "冰激凌"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103548": "冰激凌"
+                                    },
+                                    "category_id": "103548",
+                                    "cid": "103548",
+                                    "child_cid": "0",
+                                    "product_id": "8910",
+                                    "price": "2.00",
+                                    "number": "1000",
+                                    "dealer_id": "5254",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "0",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/000/000/8910/0000008910.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/000/000/8910/0000008910.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21511",
+                            "name": "新鲜预订-放价蔬菜专场",
+                            "img": "http://img01.bqstatic.com//upload/activity/2016081219302435.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/2016081219302435.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "31",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyudingzhoumofangjiashucaizhuanchang",
+                                "trackid": "category1|21511"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21511"
+                        },
+                        "category_detail": {
+                            "name": "新鲜预订",
+                            "category_color": "E80013",
+                            "target_type": "2",
+                            "category_id": "0",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "109699",
+                                    "name": "[次日达]新西兰青口贝",
+                                    "long_name": "[次日达]新西兰青口贝1150g",
+                                    "store_nums": "200",
+                                    "specifics": "1150g",
+                                    "attribute": "",
+                                    "sort": "1",
+                                    "top_sort": "9999",
+                                    "brand_id": "2418",
+                                    "brand_name": "omega",
+                                    "hot_degree": "0",
+                                    "safe_day": "730",
+                                    "safe_unit": "1",
+                                    "market_price": "59",
+                                    "pcid": "55",
+                                    "partner_price": "49.9",
+                                    "ismix": "0",
+                                    "pre_img": "20160603190913_098046.jpg",
+                                    "pre_imgs": "20160603190925_775970.jpg",
+                                    "cart_group_id": "1",
+                                    "goods_type": "1",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "",
+                                    "product_num": "100000003",
+                                    "org_source_value": "4",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103567": {
+                                            "103565": "肉蛋时蔬"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103567": "肉蛋水产"
+                                    },
+                                    "category_id": "103565",
+                                    "cid": "103565",
+                                    "child_cid": "103567",
+                                    "product_id": "109699",
+                                    "dealer_id": "10114",
+                                    "number": "52",
+                                    "price": "49.9",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/606/0319/20160603190913_098046.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/606/0319/20160603190913_098046.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "65848",
+                                    "name": "[次日达]台湾文旦柚",
+                                    "long_name": "[次日达]台湾文旦柚3粒 1.5-2kg/盒",
+                                    "store_nums": "200",
+                                    "specifics": "3粒 1.5-2kg/盒",
+                                    "attribute": "",
+                                    "sort": "2",
+                                    "top_sort": "9999",
+                                    "brand_id": "128",
+                                    "brand_name": "爱鲜蜂",
+                                    "hot_degree": "0",
+                                    "safe_day": "12",
+                                    "safe_unit": "1",
+                                    "market_price": "128",
+                                    "pcid": "55",
+                                    "partner_price": "79",
+                                    "ismix": "0",
+                                    "pre_img": "20160901163007_756197.jpg",
+                                    "pre_imgs": "20160901163016_281092.jpg",
+                                    "cart_group_id": "1",
+                                    "goods_type": "1",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "水果礼盒，中秋礼盒",
+                                    "product_num": "100000002",
+                                    "org_source_value": "4",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103533": {
+                                            "103532": "优选水果"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103533": "国产水果"
+                                    },
+                                    "category_id": "103532",
+                                    "cid": "103532",
+                                    "child_cid": "103533",
+                                    "product_id": "65848",
+                                    "dealer_id": "10114",
+                                    "number": "6",
+                                    "price": "79",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/609/0116/20160901163007_756197.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/609/0116/20160901163007_756197.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "103960",
+                                    "name": "[次日达]德青源鸡蛋16枚装",
+                                    "long_name": "[次日达]德青源爱的鲜鸡蛋16枚装838g/盒",
+                                    "store_nums": "200",
+                                    "specifics": "838g",
+                                    "attribute": "",
+                                    "sort": "4",
+                                    "top_sort": "9999",
+                                    "brand_id": "1549",
+                                    "brand_name": "德青源",
+                                    "hot_degree": "0",
+                                    "safe_day": "45",
+                                    "safe_unit": "1",
+                                    "market_price": "21.9",
+                                    "pcid": "55",
+                                    "partner_price": "19.9",
+                                    "ismix": "0",
+                                    "pre_img": "20160426202227_524498.jpg",
+                                    "pre_imgs": "20160426202231_556716.jpg",
+                                    "cart_group_id": "1",
+                                    "goods_type": "1",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "",
+                                    "product_num": "100000014",
+                                    "org_source_value": "4",
+                                    "safe_unit_desc": "天",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103567": {
+                                            "103565": "肉蛋时蔬"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103567": "肉蛋水产"
+                                    },
+                                    "category_id": "103565",
+                                    "cid": "103565",
+                                    "child_cid": "103567",
+                                    "product_id": "103960",
+                                    "dealer_id": "10114",
+                                    "number": "18",
+                                    "price": "19.9",
+                                    "had_pm": "0",
+                                    "pm_desc": "",
+                                    "pm_info": "",
+                                    "is_xf": "1",
+                                    "pm_tags": [],
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/604/2620/20160426202227_524498.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/604/2620/20160426202227_524498.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        },
+                        "target_type": "2"
+                    },
+                    {
+                        "activity": {
+                            "id": "21741",
+                            "name": "大闸蟹开湖国庆",
+                            "img": "http://img01.bqstatic.com//upload/activity/20160922192945100.jpg@90Q.jpg",
+                            "topimg": "http://img01.bqstatic.com//upload/activity/20160922192945100.jpg@90Q.jpg",
+                            "jptype": "1",
+                            "sort": "32",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "dazhaxiekaihuguoqing",
+                                "trackid": "category1|21741"
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": "category1|21741"
+                        },
+                        "category_detail": {
+                            "name": "大闸蟹",
+                            "category_color": "E80013",
+                            "target_type": "2",
+                            "category_id": "0",
+                            "style": "1",
+                            "goods": [
+                                {
+                                    "id": "114790",
+                                    "name": "[直供]湖畔人家心想事成999型礼盒",
+                                    "long_name": "[直供]湖畔人家心想事成999型礼盒2.5-2.9两8只全母",
+                                    "store_nums": "200",
+                                    "specifics": "2.5-2.9两8只全母",
+                                    "attribute": "",
+                                    "sort": "1",
+                                    "top_sort": "9999",
+                                    "brand_id": "1472",
+                                    "brand_name": "湖畔人家",
+                                    "hot_degree": "0",
+                                    "safe_day": "5",
+                                    "safe_unit": "3",
+                                    "market_price": "338",
+                                    "pcid": "55",
+                                    "partner_price": "338",
+                                    "ismix": "0",
+                                    "pre_img": "20160923103734_907988.jpg",
+                                    "pre_imgs": "20160923103726_940189.jpg",
+                                    "cart_group_id": "10002",
+                                    "goods_type": "1",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "蟹",
+                                    "product_num": "100000000",
+                                    "org_source_value": "4",
+                                    "safe_unit_desc": "年",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103567": {
+                                            "103565": "肉蛋时蔬"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103567": "肉蛋水产"
+                                    },
+                                    "category_id": "103565",
+                                    "cid": "103565",
+                                    "child_cid": "103567",
+                                    "product_id": "114790",
+                                    "dealer_id": "10114",
+                                    "number": "999",
+                                    "price": "338",
+                                    "had_pm": "1",
+                                    "pm_desc": "满减",
+                                    "pm_info": "满199元减60元，多买多减",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "满减"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/609/2310/20160923103734_907988.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/609/2310/20160923103734_907988.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "114792",
+                                    "name": "[直供]星农联合阳澄湖大闸蟹666型礼盒",
+                                    "long_name": "[直供]星农联合阳澄湖大闸蟹666型礼盒3.6-4.0两公蟹 2.6-3.0两母蟹8只公母配",
+                                    "store_nums": "200",
+                                    "specifics": "3.6-4.0两公蟹 2.6-3.0两母蟹8只公母配",
+                                    "attribute": "",
+                                    "sort": "2",
+                                    "top_sort": "9999",
+                                    "brand_id": "2612",
+                                    "brand_name": "星农联合",
+                                    "hot_degree": "0",
+                                    "safe_day": "5",
+                                    "safe_unit": "3",
+                                    "market_price": "318",
+                                    "pcid": "55",
+                                    "partner_price": "318",
+                                    "ismix": "0",
+                                    "pre_img": "20160922183003_838335.jpg",
+                                    "pre_imgs": "20160922183000_816164.jpg",
+                                    "cart_group_id": "10002",
+                                    "goods_type": "1",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "星农联合阳澄湖大闸蟹666型礼盒",
+                                    "product_num": "100000000",
+                                    "org_source_value": "4",
+                                    "safe_unit_desc": "年",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103567": {
+                                            "103565": "肉蛋时蔬"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103567": "肉蛋水产"
+                                    },
+                                    "category_id": "103565",
+                                    "cid": "103565",
+                                    "child_cid": "103567",
+                                    "product_id": "114792",
+                                    "dealer_id": "10114",
+                                    "number": "999",
+                                    "price": "318",
+                                    "had_pm": "1",
+                                    "pm_desc": "满减",
+                                    "pm_info": "满199元减60元，多买多减",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "满减"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/609/2218/20160922183003_838335.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/609/2218/20160922183003_838335.jpg@200w_200h_90Q"
+                                },
+                                {
+                                    "id": "114793",
+                                    "name": "[直供]星农联合阳澄湖大闸蟹1188型礼盒",
+                                    "long_name": "[直供]星农联合阳澄湖大闸蟹1188型礼盒4.0-4.5两公蟹 3.0-3.5两母蟹8只公母配",
+                                    "store_nums": "200",
+                                    "specifics": "4.0-4.5两公蟹 3.0-3.5两母蟹8只公母配",
+                                    "attribute": "",
+                                    "sort": "3",
+                                    "top_sort": "9999",
+                                    "brand_id": "2612",
+                                    "brand_name": "星农联合",
+                                    "hot_degree": "0",
+                                    "safe_day": "5",
+                                    "safe_unit": "3",
+                                    "market_price": "468",
+                                    "pcid": "55",
+                                    "partner_price": "468",
+                                    "ismix": "0",
+                                    "pre_img": "20160922183200_709026.jpg",
+                                    "pre_imgs": "20160922183149_942269.jpg",
+                                    "cart_group_id": "10002",
+                                    "goods_type": "1",
+                                    "source_id": "1",
+                                    "tag_ids": "5",
+                                    "pre_state": "0",
+                                    "keywords": "星农联合阳澄湖大闸蟹1188型礼盒",
+                                    "product_num": "100000000",
+                                    "org_source_value": "4",
+                                    "safe_unit_desc": "年",
+                                    "c_layer": "2",
+                                    "p_cids": {
+                                        "103567": {
+                                            "103565": "肉蛋时蔬"
+                                        }
+                                    },
+                                    "cids": {
+                                        "103567": "肉蛋水产"
+                                    },
+                                    "category_id": "103565",
+                                    "cid": "103565",
+                                    "child_cid": "103567",
+                                    "product_id": "114793",
+                                    "dealer_id": "10114",
+                                    "number": "999",
+                                    "price": "468",
+                                    "had_pm": "1",
+                                    "pm_desc": "满减",
+                                    "pm_info": "满199元减60元，多买多减",
+                                    "is_xf": "1",
+                                    "pm_tags": [
+                                        "满减"
+                                    ],
+                                    "promotion": "pm_limit%3D%7B%7D",
+                                    "img": "http://img01.bqstatic.com/upload/goods/201/609/2218/20160922183200_709026.jpg@200w_200h_90Q",
+                                    "app_mimg": "http://img01.bqstatic.com/upload/goods/201/609/2218/20160922183200_709026.jpg@200w_200h_90Q"
+                                }
+                            ]
+                        },
+                        "target_type": "2"
+                    }
+                ],
+                "type": "category",
+                "sort": "6"
+            },
+            {
+                "act_rows": [
+                    {
+                        "activity": {
+                            "id": "21325",
+                            "name": "小店活动",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "0",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xiaodianhuodong",
+                                "trackid": ""
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": ""
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21323",
+                            "name": "新鲜预订-佳沛奇异果",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "0",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyudingjiapeiqiyiguo",
+                                "trackid": ""
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": ""
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21402",
+                            "name": "小店活动",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "0",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xiaodianhuodong",
+                                "trackid": ""
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": ""
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21416",
+                            "name": "新鲜预订－优形速食鸡肉",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "0",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyudingyouxingsushijirou",
+                                "trackid": ""
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": ""
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21453",
+                            "name": "限量抢购",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "1",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "xinxianyudingxianliangqianggou",
+                                "trackid": ""
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "0",
+                            "trackid": ""
+                        }
+                    },
+                    {
+                        "activity": {
+                            "id": "21700",
+                            "name": "大姨妈",
+                            "img": "http://img01.bqstatic.com/@90Q",
+                            "topimg": "http://img01.bqstatic.com/@90Q",
+                            "jptype": "1",
+                            "sort": "1",
+                            "ext_params": {
+                                "cityid": "2",
+                                "bigids": "2,0",
+                                "activitygroup": "dayima",
+                                "trackid": ""
+                            },
+                            "show_reload": "1",
+                            "hide_cart": "1",
+                            "trackid": ""
+                        }
+                    }
+                ],
+                "type": "hide",
+                "sort": "8"
+            }
+        ],
+        "have_tmr": "1",
+        "tmr_detail": {
+            "id": "20520",
+            "name": "新鲜预订",
+            "img": "http://img01.bqstatic.com/upload/activity/activity_v4_20520_1467012039_icon.jpg",
+            "topimg": "http://img01.bqstatic.com/upload/activity/activity_v4_20520_1467012039_top.jpg",
+            "jptype": "1",
+            "sort": "41",
+            "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridaxinban",
+                "trackid": "headline1|20520"
+            },
+            "show_reload": "1",
+            "hide_cart": "0",
+            "trackid": "tmr"
+        }
+    }
+}

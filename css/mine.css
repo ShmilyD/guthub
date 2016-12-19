@@ -1,0 +1,288 @@
+@charset:"UTF-8";
+
+html{
+	font-size: 100px;
+}
+body{
+	background-color: #efefef;;
+	font-size: 16px;
+	font-family: Myriad Set Pro,Lucida Grande,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif,Microsoft Yahei,Simsun;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+li{
+	list-style: none;
+}
+a{	
+	text-decoration: none;
+}
+.mine_header{
+	position: fixed;
+	width: 100%;
+	height: 1.74rem;
+	background: #ffd600;
+	top:0;
+}
+
+.mine_header_one{
+	display: flex;
+	height: 1.29rem;
+	align-items:center;
+}
+.mine_header_one>span{
+	display: block;
+	width: 1.16rem;
+	height: 100%;
+	background: url(../img/mine_bg.png) no-repeat center center;
+	background-size: 0.8rem;
+}
+
+/*mine_header_bg2.png*/
+.mine_header_one div>span{
+	position: relative;
+	line-height: 0.36rem;
+	display: block;
+	height: 0.36rem;
+	width: 2rem;
+	z-index: 10;
+}
+.mine_header_one div p{
+	line-height: 0.4rem;
+	font-size: 0.2rem;
+	color: white;
+}
+.mine_header_one div>span span:first-of-type{
+	border-radius:0 1rem 1rem 0;
+	color:  #e64f1a;
+	position: absolute;
+	font-size: 0.14rem;
+	width: 2rem;
+	height: 0.36rem;
+	z-index: 1;
+	text-indent: 0.46rem;
+	background: url(../img/mine_header_bg2.png) no-repeat left center;
+	background-size: 1.2rem;
+}
+
+.mine_header_one a{
+	background: red;
+	margin-left: 0.1rem;
+	width: 0.1422rem;
+	height: 0.2458rem;
+	background: url(../img/mine_header_bg4.png) no-repeat center center;
+	background-size: 100% 100%;
+}
+
+
+.mine_header_two{
+	display: flex;
+	height:0.45rem; 
+	background:#f3c800;
+	justify-content:center;
+	align-items:center;
+	font-size: 0.18rem;
+}
+.mine_header_two span{
+	width: 100%;
+	height: 0.25rem;
+	line-height: 0.3rem;
+	color: white;
+	text-align: center;
+}
+.mine_header_two span:first-of-type{
+	background: url(../img/mine_header_bg5.png) no-repeat .4rem center;
+	background-size: 0.24rem;
+	padding-left: 0.2rem;
+	border-right: 1px solid #eee;
+}
+.mine_header_two span:last-of-type{
+	background: url(../img/mine_header_bg6.png) no-repeat .4rem center;
+	background-size: 0.24rem;
+	padding-left: 0.2rem;
+}
+
+.mine_main{
+	padding-top: 1.4rem;
+	width: 100%;
+	background:#eee;
+}
+.mine_main_one{
+	height: 1.56rem;
+	background: white;
+	margin-top: 0.5rem;
+}
+
+.mine_main_one p{
+	display: flex;
+	justify-content:space-between;
+	align-items:center;
+	height: 0.6422rem;
+	border-bottom: 1px solid #eee;
+}
+.mine_main_one p span:first-of-type{
+	font-size: 0.2rem;
+	color: #333;
+	padding-left: 0.2rem;
+}
+
+.mine_main_one p span:last-of-type{
+	font-size: 0.2rem;
+	color: #999;
+	padding-left: 0.2rem;
+	background: url(../img/mine_main_bg1.png) no-repeat right center;
+	background-size: 0.3rem;
+    text-indent: -1.4rem;
+}
+.mine_main_one ul{
+	width: 100%;
+	height: 0.92rem;
+	display: flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.mine_main_one ul li{
+	display: flex;
+	justify-content:center;
+	flex-direction:column;
+	align-items:center;
+	width: 25%;
+	text-align: center;
+}
+.mine_main_one ul li span:first-of-type{
+	width: 100%;
+	height: 0.52rem;
+	background: url(../img/mine_main_bg2.png) no-repeat bottom center;
+	background-size: 0.25rem 0.25rem;
+}
+.mine_main_one ul li span:last-of-type{
+	font-size: 0.18rem;
+	width: 100%;
+	height: 0.38rem;
+	line-height: 0.42rem;
+}
+.mine_main_one ul li:nth-of-type(2) span:first-of-type{
+	height: 0.52rem;
+	background: url(../img/mine_main_bg3.png) no-repeat bottom center;
+	background-size: 0.25rem 0.25rem;
+}
+.mine_main_one ul li:nth-of-type(3) span:first-of-type{
+	height: 0.52rem;
+	background: url(../img/mine_main_bg4.png) no-repeat bottom center;
+	background-size: 0.25rem 0.25rem;
+}
+.mine_main_one ul li:nth-of-type(4) span:first-of-type{
+	height: 0.52rem;
+	background: url(../img/mine_main_bg5.png) no-repeat bottom center;
+	background-size: 0.25rem 0.25rem;
+}
+
+
+
+
+.mine_main_two ul{
+	margin-top: 0.15rem;
+	background: white;
+	width: 100%;
+	height: 2.55rem;
+	display: flex;
+	justify-content:space-between;
+	align-items:center;
+	flex-wrap:wrap;
+}
+.mine_main_two ul li{
+	border-bottom: 1px solid #eee;
+	height: 1.27rem;
+	display: flex;
+	justify-content:center;
+	flex-direction:column;
+	align-items:center;
+	width: 25%;
+	text-align: center;
+}
+.mine_main_two ul li span:first-of-type{
+	width: 100%;
+	height: 0.52rem;
+	background: url(../img/mine_main_bg6.png) no-repeat bottom center;
+	background-size:  0.4rem 0.35rem;
+}
+.mine_main_two ul li span:last-of-type{
+	font-size: 0.18rem;
+	width: 100%;
+	height: 0.38rem;
+	line-height: 0.42rem;
+}
+.mine_main_two ul li:nth-of-type(2) span:first-of-type{
+	height: 0.52rem;
+	background: url(../img/mine_main_bg7.png) no-repeat bottom center;
+	background-size:  0.4rem 0.35rem;
+}
+.mine_main_two ul li:nth-of-type(3) span:first-of-type{
+	height: 0.52rem;
+	background: url(../img/mine_main_bg8.png) no-repeat bottom center;
+	background-size:  0.4rem 0.35rem;
+}
+.mine_main_two ul li:nth-of-type(4) span:first-of-type{
+	height: 0.52rem;
+	background: url(../img/mine_main_bg9.png) no-repeat bottom center;
+	background-size:  0.4rem 0.35rem;
+}
+.mine_main_two ul li:nth-of-type(5) span:first-of-type{
+	height: 0.52rem;
+	background: url(../img/mine_main_bg10.png) no-repeat bottom center;
+	background-size: 0.4rem 0.35rem;
+}
+.mine_exit{
+	margin-top: 0.4rem;
+	width: 100%;
+	height: 0.5822rem;
+	line-height: 0.5822rem;
+	text-align: center;
+	margin-bottom: 1rem;
+	background: white;
+}
+.mine_exit a{
+	font-size: 0.2rem;
+	color: #333;
+}
+
+
+
+.bot{
+	width: 100%;
+	height: 0.62rem;
+	background:rgba(246,246,246,.95);
+	position: fixed;
+	bottom: 0rem;
+	z-index: 1000;
+	display: flex;
+}
+.bot li{
+	width: 25%;
+	height: 100%;
+	background: url(../img/3.png) no-repeat center 0.06rem;
+	background-size: 28% 45%;
+	padding-top: 0.1px solid;
+	display: flex;
+	justify-content:center;
+}
+.bot li span{
+	align-self:flex-end;
+	color: #777;
+	font-size: 0.16rem;
+	line-height: 0.3rem;
+}
+.bot li:nth-of-type(2){
+	background: url(../img/4.png) no-repeat center 0.06rem;
+	background-size: 28% 45%;
+}
+.bot li:nth-of-type(3){
+	background: url(../img/5.png) no-repeat center 0.06rem;
+	background-size: 28% 45%;
+}
+
+.bot li:nth-of-type(4){
+	background: url(../img/6.png) no-repeat center 0.06rem;
+	background-size: 28% 45%;
+}

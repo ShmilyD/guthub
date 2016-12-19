@@ -1,0 +1,18 @@
+
+
+homeData.json   --------首页的数据
+
+		data.act_info[0].act_rows  -------是轮播图的数据
+		data.act_info[1].act_rows  -------是菜单的数据
+
+		其他版块数据也在  data.act_info 中查找
+
+
+homeHotProducts.json ------首页热卖数据
+
+getCategoryProducts.json  -----闪送超市 的数据
+
+yuding.json  -----新鲜预定的数据
+
+
+miaosha.json  ——秒杀的数据

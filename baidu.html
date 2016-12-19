@@ -1,0 +1,93 @@
+<script type="text/html" id="firstTmp">
+		<div class="swiper-wrapper">
+		<%for(var i in data.act_info[0].act_rows){%>
+			<div class="swiper-slide"><img src=<%=data.act_info[0].act_rows[i].activity.img%>></div>
+		<%}%>
+		</div>
+	    <div class="swiper-pagination"></div>
+
+</script>
+<script type="text/html" id="secondTmp">
+		<%for(var i in data.act_info[1].act_rows){%>
+			<%if(data.act_info[1].act_rows[i].activity.name=="水果"||data.act_info[1].act_rows[i].activity.name=="疯狂秒杀"||data.act_info[1].act_rows[i].activity.name=="乳品"||data.act_info[1].act_rows[i].activity.name=="鲜货直供"){%>
+				<li>
+					<a href=#<%=data.act_info[1].act_rows[i].activity.name%>>
+						<span style=background-image:url(<%=data.act_info[1].act_rows[i].activity.img%>)></span>
+						<span><%=data.act_info[1].act_rows[i].activity.name%></span>
+					<a>
+				</li>
+			<%}%>
+			
+		<%}%>
+</script>
+<script type="text/html" id="threeTmp">
+		<%for(var i in data.act_info[5].act_rows){%>
+				<div class="rep" >
+					<div class="rep_div">
+						<div>
+							<span ><%=data.act_info[5].act_rows[i].category_detail.name%></span>
+							<span>更多</span>
+						</div>
+						<img class = "lazy" data-original=<%=data.act_info[5].act_rows[i].activity.img%>>
+					</div>
+					<ul class="rep_ul">
+						<%for(var p in data.act_info[5].act_rows[i].category_detail.goods){%>
+								<li>
+									<div style=background-image:url(<%=data.act_info[5].act_rows[i].category_detail.goods[p].img%>)></div>
+									<h5><%=data.act_info[5].act_rows[i].category_detail.goods[p].name%></h5>
+									<p>
+										<span>精选</span>
+										<%if(data.act_info[5].act_rows[i].category_detail.goods[p].pm_desc!=""){%>
+											<a href="#"><%=data.act_info[5].act_rows[i].category_detail.goods[p].pm_desc%></a>
+										<%}%>
+										
+									</p>
+									<span>60g</span>
+									<div>
+										<span>￥<span><%=data.act_info[5].act_rows[i].category_detail.goods[p].partner_price%></span></span>
+										<span class="span">￥<span><%=data.act_info[5].act_rows[i].category_detail.goods[p].market_price%></span></span>
+										<a href="#" class="jia" id=<%=data.act_info[5].act_rows[i].category_detail.goods[p].id%> price=<%=data.act_info[5].act_rows[i].category_detail.goods[p].partner_price%> imga=<%=data.act_info[5].act_rows[i].category_detail.goods[p].img%> name=<%=data.act_info[5].act_rows[i].category_detail.goods[p].name%>></a>
+									</div>
+								</li>
+							<%}%>
+					</ul>
+				</div>
+		<%}%>
+</script>
+<script type="text/html" id="fourTmp">
+		<%for(var i in data){%>
+				<li>
+					<div style=background-image:url(<%=data[i].img%>)></div>
+					<div>
+							<h5><%=data[i].name%></h5>
+						<p>
+							<span>精选</span>
+							<%if(data[i].pm_desc!=""){%>
+								<a href="#"><%=data[i].pm_desc%></a>
+							<%}%>
+						</p>
+							<span><%=data[i].specifics%></span>
+						<div>
+							<span>￥<span><%=data[i].partner_price%></span>
+							</span>
+							<span class="span">￥<span><%=data[i].market_price%></span>
+							</span>
+							<a href="#" class="jia" id=<%=data[i].id%> price=<%=data[i].partner_price%> imga=<%=data[i].img%> name=<%=data[i].name%>></a>
+						</div>	
+					</div>
+				</li>
+		<%}%>
+</script>
+<script type="text/html" id="gouBuy">
+		<%for(var p in info){%>
+				<li>
+					<div></div>
+					<div><img src=<%=info[p][1]%>></div>
+					<div>
+						 <h4><%=info[p][2]%></h4>
+						 <div><span>￥<%=info[p][3]%></span> <div class="addAndJian" index=<%=p%> ><a href="#" class="jian"></a><span><%=info[p][0]%></span><a href="#" class="add"></a></div></div>
+					</div>
+				</li>
+		<%}%>
+</script>
+
