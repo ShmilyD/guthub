@@ -5,7 +5,8 @@ define(["backbone"], function(Backbone){
 			supermarket: "market",
 			buycar: "order",
 			mine: "mine",
-			疯狂秒杀:"miao"
+			疯狂秒杀:"miao",
+			"":"home"
 		},
 		home: function(){
 			require(["modules/home/index.js"],function(home){
