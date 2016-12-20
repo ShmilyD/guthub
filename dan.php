@@ -26,8 +26,7 @@ $signPackage = $jssdk->GetSignPackage();
 	
 
 <ul class="bot">
-    <div id="b1">获取地理位置</div>
-    <div id="b2">显示当前位置</div>
+
 	<li>
 		<a href="#index"><span>首页</span></a>
 	</li>
@@ -107,6 +106,7 @@ document.getElementById("b2").onclick = function(){
     scale: 1, // 地图缩放级别,整形值,范围从1~28。默认为最大
     infoUrl: '' // 在查看位置界面底部显示的超链接,可点击跳转
     });
+
 }
 
 </script>
